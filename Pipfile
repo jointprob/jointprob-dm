@@ -9,6 +9,7 @@ pymc = "*"
 jupyterlab = "*"
 formulae = "*"
 bambi = "*"
+jupyterlab-dagitty = "*"
 
 [dev-packages]
 

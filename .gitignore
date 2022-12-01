@@ -57,3 +57,4 @@ python-notebooks/
 Rethinking_2/
 data/
 *test-*
+.env
